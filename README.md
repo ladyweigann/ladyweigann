@@ -1,4 +1,4 @@
-### Olá! Sou a Larissa 👋
+### Olá! Sou a Larissa Labanca 👋
 
 - 🔭 Trabalho atualmente como desenvolvedora de software Fullstack (nível Jr), minha linguagem de maior domínio é _**Java**_ ☕
 - 🌱 Estou ampliando meus conhecimentos no Front-end, com HTML | CSS | Bootstrap e Javascript
