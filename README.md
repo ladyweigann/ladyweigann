@@ -1,8 +1,6 @@
 ### Olá! Sou a Larissa Labanca 👋
 
-- 🔭 Trabalho atualmente como desenvolvedora de software Back-end (nível Jr), minha linguagem de maior domínio é _**Java**_ ☕
-- 🌱 Estou ampliando meus conhecimentos no Front-end, com HTML | CSS | Bootstrap e Javascript
-- 🤓 Estudando React
+- 🔭 Backend Developer Jr _**Java**_ ☕
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
