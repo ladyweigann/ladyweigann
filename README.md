@@ -1,6 +1,9 @@
-### Olá! Sou a Larissa Labanca 👋
+### Hi, there! I'm Larissa Labanca 👋
 
 - 🔭 Backend Developer Jr _**Java**_ ☕
+- 📚 Love to read 
+- ✈️ Love to travel 
+- 😻 Cat Person 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
