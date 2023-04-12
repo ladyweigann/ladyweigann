@@ -1,6 +1,6 @@
 ### Hi, there! I'm Larissa Labanca 👋
 
-- 💻 Backend Developer Jr _**Java**_ ☕
+- 💻 Java Developer ☕
 - 📚 Love to read 
 - ✈️ Love to travel 
 - 😻 Cat Person 
